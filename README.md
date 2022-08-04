@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dmars17
 - 👀 I’m interested in ... Software Development
-- 🌱 I’m currently learning ... C++ and Ruby
+- 🌱 I’m currently learning ... C++ and Python
 - 💞️ I’m looking to collaborate on ... things
 - 📫 How to reach me ... Dmarsden17@gmail.com
 
